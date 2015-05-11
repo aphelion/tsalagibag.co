@@ -1,3 +1,9 @@
+html, body {
+    height: 100%;
+}
 body {
     background-color: #000000;
+}
+.img-responsive {
+    max-height: 100%;
 }
